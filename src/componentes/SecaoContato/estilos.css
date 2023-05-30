@@ -1,0 +1,35 @@
+.secao-contato {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    padding: 100px 20px;
+    background: #05031b;
+}
+
+.secao-contato-dados {
+    display: flex;
+    justify-content: center;
+}
+
+.secao-contato-img {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 15px;
+    border: #fff solid 2px;
+}
+
+.secao-contato-img div {
+    display: flex;
+    align-items: center;
+    margin: 5px 0px;
+}
+
+.secao-contato-img img {
+    width: 18px;
+}
+
+.secao-contato-img span {
+    font-size: 14px;
+    margin-left: 10px;
+}
